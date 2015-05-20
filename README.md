@@ -5,4 +5,11 @@ Administrators are allowed to login and add new student addresses to the databas
 
 *To login:  
 username: admin  
-password: admin*
+password: admin*  
+  
+Team:
+Julia John (JuliaJohn)  
+Michael Whitley (Cptnjack)  
+James Miller (Daroneto)  
+Trey Brumley  (Raetekusu)  
+Ryan Carter
